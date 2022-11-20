@@ -16,9 +16,9 @@ return(
 <div className="collapse navbar-collapse" id="navmenu">
 
 <ul className="navbar-nav ms-auto">
-<li className="nav-item"><a href="#learn" className="nav-link">What you'll learn</a></li>
+<li className="nav-item"><a href="#learn" className="nav-link">Learn</a></li>
 <li className="nav-item"><a href="#questions" className="nav-link">Questions</a></li>
-<li className="nav-item"><a href="#instructors" className="nav-link">Instructors</a></li>
+<li className="nav-item"><a href="#students" className="nav-link">Students</a></li>
 </ul>
 
 </div>

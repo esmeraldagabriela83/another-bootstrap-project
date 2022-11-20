@@ -9,7 +9,7 @@ return(
 
 <div className="container">
 
-<h2 className="text-center mb-5">Frequently Asked Questions</h2>
+<h2 className="text-center mb-5 text-primary">Frequently Asked Questions</h2>
 
 
 
@@ -42,7 +42,8 @@ return(
   <div className="accordion-item">
     <h2 className="accordion-header" id="flush-headingTwo">
       <button className="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#question-two" aria-expanded="false" aria-controls="flush-collapseTwo">
-       How much does it cost to attend?
+
+Why would I learn how to code?
       </button>
     </h2>
     <div id="question-two" className="accordion-collapse collapse" aria-labelledby="flush-headingTwo" data-bs-parent="#questions">
@@ -89,7 +90,7 @@ return(
   <div className="accordion-item">
     <h2 className="accordion-header" id="flush-headingTwo">
       <button className="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#question-four" aria-expanded="false" aria-controls="flush-collapseTwo">
-       How Do I sign up?
+    How long would it take me to learn how to code?
       </button>
     </h2>
     <div id="question-four" className="accordion-collapse collapse" aria-labelledby="flush-headingTwo" data-bs-parent="#questions">

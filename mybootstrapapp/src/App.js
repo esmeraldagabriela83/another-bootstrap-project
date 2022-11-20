@@ -7,8 +7,9 @@ import Boxes from "./js/Boxes.js";
 import LearnSection from "./js/LearnSection.js";
 import LearnSectionSecond from "./js/LearnSectionSecond.js";
 import QuestionAccordion from "./js/QuestionAccordion.js";
-import Instructors from "./js/Instructors.js";
-import ContactAndMap from "./js/ContactAndMap.js";
+import Students from "./js/Students.js";
+import Contact from "./js/Contact.js";
+import Footer from "./js/Footer.js";
 //import './App.css';
 
 //pedro course
@@ -29,8 +30,9 @@ function App() {
 <LearnSection />
 <LearnSectionSecond />
 <QuestionAccordion />
-<Instructors />
-<ContactAndMap />
+<Students />
+<Contact />
+<Footer />
 
     </div>
   </>);

@@ -15,7 +15,7 @@ return(
      </div>
 
      <div className="col-lg p-5">
-     <h2>Learn The Fundamentals</h2>
+     <h2 className="text-primary">Learn The Fundamentals</h2>
 
     <p className="lead">
     Lorem ipsum dolor, sit amet consectetur adipisicing elit.Similique deleniti possimus magnam corporis ratione facere!

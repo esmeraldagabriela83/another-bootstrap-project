@@ -1,6 +1,15 @@
 import React from 'react';
 
+
+
+
 function SectionShowcase(){
+
+
+  
+
+
+  //----------------------------------------------------------------------------
 
 return(
 
@@ -18,7 +27,7 @@ return(
 <p className="lead pb-5">It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
 It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages.</p>
 
- <button className="btn btn-primary btn-lg mb-3">Start the enrollment</button>
+ <button className="btn btn-primary btn-lg mb-3" data-bs-toggle="modal" data-bs-target="#enrollment">Enrollment form</button>
 </div>
 
 
